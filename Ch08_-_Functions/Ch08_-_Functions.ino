@@ -8,6 +8,8 @@
  *  
  */
 
+ // HAHA
+
 #define ONBOARD_LED 2    // LED IO2
 #define SHORT_DELAY 300
 #define LONG_DELAY 900
